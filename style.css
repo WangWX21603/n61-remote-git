@@ -1,0 +1,29 @@
+body {
+  background-color: yellowgreen;
+}
+
+h1, div {
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  text-align: center;
+  font-size: 20px;
+}
+
+button{
+  color: white;
+  background: #000;
+  padding: 8px 15px;
+  border-radius: 2px;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.answer {
+    display: none;
+    padding: 30px;
+}
